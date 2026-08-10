@@ -1,0 +1,29 @@
+string firstName = "Luis"
+string lastname = "Scain";
+
+strind note = lastname. ToUpper()
+                + " " + firtName;
+
+string initials = lastName[0] + " "+
+      firstName
+
+Console.WriteLine (""+ initials);
+
+//Formatacao de strings
+string texto = string.Format(
+    "{0} {1} nascidos em {2}
+
+
+
+
+
+
+
+//c# e uma linguagem filha do c++
+//totalmente orientada a pbjetos
+// Portanto, tudo dentro do c e descendente 
+//do tipo Object
+
+int age =24;
+object ageBoxing = age; 
+int ageUnboxing = (int)ageBoxing;
